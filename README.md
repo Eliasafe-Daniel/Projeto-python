@@ -8,6 +8,6 @@ Luan Masao Hirahata\
 Bruno Gabriel Figueiredo da Paz Assis\
 Vinicius Mendes Serra\
 André Felipe Xavier Oliveira Santos\
-Eliasafe Daniel da Silva\
+Eliasafe Daniel da Silva
 
 
